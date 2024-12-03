@@ -1,8 +1,0 @@
-
-#use this instructions
-%%bash
-cd /content/drive/MyDrive/
-mkdir -p deepsmell
-cd deepsmell
-git clone https://github.com/EASE2023-DeepSmells/DeepSmells.git
-
